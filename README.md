@@ -1,10 +1,14 @@
-# account-bank
+# Activity - bank account
 ![Static Badge](https://img.shields.io/badge/license-MIT-green)
 
 
-Contains learning for:
+## Contains learning of:
 Constructors
+
 Overloading
-'this' keyword
+
+keyword 'this'
+
 Encapsulation
+
 Access Modifiers
