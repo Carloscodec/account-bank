@@ -1,5 +1,6 @@
 # account-bank
-https://img.shields.io/badge/license-MIT-green
+![Static Badge](https://img.shields.io/badge/license-MIT-green)
+
 
 Contains learning for:
 Constructors
